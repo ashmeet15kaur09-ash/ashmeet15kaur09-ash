@@ -1,16 +1,105 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ashmeet15kaur09-ash/ashmeet15kaur09-ash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashmeet+Kaur!;CSE+%7C+AI%2FML+Student;Exploring+AI%2C+ML+%26+Software+Engineering;Learning+by+Building+%26+Contributing" alt="Typing animation" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Building skills. Solving problems. Creating impact.
+
+</div>
+<h2 align="center">⚡ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github&theme=dark" alt="Technology icons"/>
+</p>
+---
+
+## 👩‍💻 About Me
+
+🎓 CSE student specializing in AI/ML.
+
+💻 Interested in software development and artificial intelligence.
+
+🧠 Exploring machine learning, algorithms, and problem-solving.
+
+🌱 Learning through projects, debugging, and open-source contributions.
+
+🎯 My goal is to build reliable software and practical AI solutions.
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">♿ AccessCheck</h3>
+
+<p align="center">
+Accessibility auditing project.
+</p>
+
+<p align="center">
+<a href="https://github.com/ashmeet15kaur09-ash/AccessCheck">
+View Repository →
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">📅 Eventify</h3>
+
+<p align="center">
+Event management website.
+</p>
+
+<p align="center">
+<a href="https://github.com/ashmeet15kaur09-ash/Eventify">
+View Repository →
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🏫 College Virtual Tour</h3>
+
+<p align="center">
+Interactive college tour project.
+</p>
+
+<p align="center">
+<a href="https://github.com/ashmeet15kaur09-ash">
+View Repositories →
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 What I'm Working On
+
+- 🧠 Strengthening my machine learning fundamentals.
+- 💻 Practising data structures and algorithms.
+- 🐛 Learning to debug and test existing codebases.
+- 🌍 Exploring meaningful open-source contributions.
+- 🛠️ Improving the quality of my existing projects.
+
+---
+
+<div align="center">
+
+### 💫 Consistency over perfection.
+
+### Progress over excuses.
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
