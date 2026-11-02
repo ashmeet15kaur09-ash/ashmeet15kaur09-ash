@@ -28,59 +28,8 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="33%" valign="top">
 
-<h3 align="center">♿ AccessCheck</h3>
-
-<p align="center">
-Accessibility auditing project.
-</p>
-
-<p align="center">
-<a href="https://github.com/ashmeet15kaur09-ash/AccessCheck">
-View Repository →
-</a>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">📅 Eventify</h3>
-
-<p align="center">
-Event management website.
-</p>
-
-<p align="center">
-<a href="https://github.com/ashmeet15kaur09-ash/Eventify">
-View Repository →
-</a>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">🏫 College Virtual Tour</h3>
-
-<p align="center">
-Interactive college tour project.
-</p>
-
-<p align="center">
-<a href="https://github.com/ashmeet15kaur09-ash">
-View Repositories →
-</a>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
